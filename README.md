@@ -1,5 +1,7 @@
 # hover-move
   Nice display of additional information on hover. Similar to hoverdir - jQuery plugin.
+  
+  - preview https://codepen.io/vitalij-nikitenko/pen/JjELBmL?editors=0010
 
 to get started:
 
