@@ -38,7 +38,6 @@ css example:
   width: 100%;
   height: 100%;
   background-color: $you-color;
-  transition: .3s ease;
   pointer-events: none;
 }
 
